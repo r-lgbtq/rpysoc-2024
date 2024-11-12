@@ -1,0 +1,110 @@
+---
+title: "rainbowR"
+image: images/rainbowR-hex-square.png
+title-slide-attributes:
+  data-background-image: images/title-slide-RPYSOC.svg
+  data-background-size: contain
+format: 
+  revealjs:
+    theme: custom.scss
+    progress: false
+    menu: false
+    width: 1512
+    height: 982
+   # include-in-header:
+   #   - meta.html
+   #   - text: |
+   #       <link rel = "shortcut icon" href = "images/rainbow-hex-square.png" />
+---
+
+## {.inverse .center .center-h .larger200}
+
+We [exist]{.yellow}
+
+(Some of) what we [do]{.green}
+
+How to [get involved]{.orange}
+
+## {.inverse .center-h .center .larger175}
+
+Our mission is to [connect]{.red}, [support]{.orange} and [promote]{.yellow} [LGBTQ+]{.green} people in the [R community]{.blue} and to spread awareness of LGBTQ+ issues through [data-driven activism]{.pink}
+
+## {.inverse .center-h .center .larger250}
+
+[connect]{.red} 
+
+[support]{.orange}
+
+[promote]{.yellow}
+
+## {background-image="images/rainbowR-latest-meetup.svg" background-size="contain"}
+
+::: {.notes}
+
+TODO: friendly and supportive, people show stuff they've never shown before, it's a safe space.
+
+UTC varies to make it equivalent to 5pm UK time
+
+rainbowR hosts a monthly meet-up for community members to 
+
+- Connect with each other
+- Stay updated on rainbowR developments
+- And to join in an informal 'show and tell', for example to showcase a project or R package they've been working on
+
+The meet-ups are held on the third Wednesday of each month at 4pm UTC.
+
+:::
+
+## {.center .center-h .center .larger175}
+
+Encourage deeper [connections]{.red} with [randomly]{.blue} assigned [buddy]{.pink}
+
+![](images/rainbow-buddies.png){fig-align="center"}
+
+::: {.notes}
+- Encourage deeper connections
+- Opt-in via a sign-up form
+- Buddy pairs randomly assigned
+- Introduction emails sent to each pair
+- [**googlesheets4**, **dplyr**, **blastula**]{.black}
+- New round every three(ish) months
+- Next pairs September 1st
+:::
+
+## {.inverse .center-h .center .larger250}
+
+[data-driven activism]{.pink} 
+
+## {.center-h}
+
+![](images/tidyRainbow.svg){fig-align="center"}
+[**github.com/r-lgbtq/tidyrainbow**](https://github.com/r-lgbtq/tidyrainbow){.larger150}
+
+## {background-image="images/queer-data.jpeg" background-size="contain"}
+
+## {.inverse .center-h .center .larger250}
+
+[get involved]{.green}
+
+## {.inverse .center .center-h .larger200}
+
+[rainbowr.org/join]{.yellow}
+
+email, Slack, newsletter
+ 
+[tech.lgbt/@rainbowR]{.green}
+
+[@rainbowr.bsky.social]{.blue}
+
+[hello@rainbowr.org]{.orange}
+
+
+## {.center-h .inverse}
+
+[rainbowr.org]{.larger250 .yellow}
+
+![](images/rainbowR-hex.svg)
+
+:::{.notes}
+So, if you're LGBTQ+ and want to join and vibrant and supportive community of fellow R enthusiasts, or you're someone interested in promoting LGBTQ+ people and issues in the R community and beyond, please visit our website, rainbowr.org, to get involved. Thank you.
+:::
