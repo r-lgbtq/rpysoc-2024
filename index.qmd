@@ -80,21 +80,21 @@ Encourage deeper [connections]{.red} with [randomly]{.blue} assigned [buddy]{.pi
 ![](images/tidyRainbow.svg){fig-align="center"}
 [**github.com/r-lgbtq/tidyrainbow**](https://github.com/r-lgbtq/tidyrainbow){.larger150}
 
-## {background-image="images/queer-data.jpeg" background-size="contain"}
+## {background-image="images/book-club-invite.png" background-size="contain"}
 
 ## {.inverse .center-h .center .larger250}
 
 [get involved]{.green}
 
-## {.inverse .center .center-h .larger200}
+## {.inverse .center .larger200}
 
 [rainbowr.org/join]{.yellow}
 
 email, Slack, newsletter
  
-[tech.lgbt/@rainbowR]{.green}
+[Mastodon: tech.lgbt/@rainbowR]{.green}
 
-[@rainbowr.bsky.social]{.blue}
+[Bluesky: @rainbowr.org]{.blue}
 
 [hello@rainbowr.org]{.orange}
 
