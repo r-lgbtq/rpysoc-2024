@@ -57,9 +57,11 @@ The meet-ups are held on the third Wednesday of each month at 4pm UTC.
 
 ## {.center .center-h .center .larger175}
 
-Encourage deeper [connections]{.red} with [randomly]{.blue} assigned [buddy]{.pink}
+Encourage deeper [connections]{.red} with [randomly]{.orange} assigned [buddy]{.pink}
 
 ![](images/rainbow-buddies.png){fig-align="center"}
+
+[rainbowr.org/buddies]{.blue}
 
 ::: {.notes}
 - Encourage deeper connections
@@ -68,7 +70,7 @@ Encourage deeper [connections]{.red} with [randomly]{.blue} assigned [buddy]{.pi
 - Introduction emails sent to each pair
 - [**googlesheets4**, **dplyr**, **blastula**]{.black}
 - New round every three(ish) months
-- Next pairs September 1st
+- Next pairs Dec 2nd
 :::
 
 ## {.inverse .center-h .center .larger250}
