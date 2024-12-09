@@ -93,7 +93,7 @@ Encourage deeper [connections]{.red} with [randomly]{.orange} assigned [buddy]{.
 [rainbowr.org/join]{.yellow}
 
 email, Slack, newsletter
- 
+
 [Mastodon: tech.lgbt/@rainbowR]{.green}
 
 [Bluesky: @rainbowr.org]{.blue}
